@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "ContainersExtendedVendors",
+      "UUID": "5d10b6c8-a2ca-4e6b-91c8-f8c00725b78e",
+      "folderName": "ContainersExtendedVendors",
+      "Description": "Containers Extended Vendors Add-on",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
